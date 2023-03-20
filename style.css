@@ -1,0 +1,22 @@
+.main-tabs{
+    background-color: #fff;
+    width: 300px;
+}
+.main-tabs__button{
+    width: 32.4%;
+    background-color: #fff;
+}
+.main-tabs__content-item{
+    background-color: #fff;
+    display: none;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+.active-button{
+    background-color: yellow;
+}
+.active-item{
+    background-color: yellow;
+    display: block;
+}
